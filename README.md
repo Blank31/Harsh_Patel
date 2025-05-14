@@ -18,11 +18,11 @@ I thrive in fast-paced environments where innovation, analytics, and impact inte
 ---
 
 ### 🛠️ Technical Skills
-- **Languages**: Python, SQL, JavaScript, TypeScript, Bash, PHP, Dart
+- **Languages**: Python, SQL, JavaScript, TypeScript, R
 - **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, spaCy, NLTK
-- **Databases**: PostgreSQL, MySQL, MongoDB, Neo4j, GraphQL, Firebase
-- **Cloud & DevOps**: AWS (S3, Lambda, EC2), Azure, Docker, Kubernetes, Jenkins
-- **ML / AI Tools & Frameworks**: Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, spaCy, NLTK, OpenCV, Keras, Hugging Face Transformers, LangChain
+- **Databases**: PostgreSQL, MySQL, MongoDB, Neo4j, GraphQL
+- **Cloud & DevOps**: AWS (S3, Lambda, EC2), Azure, Docker, Kubernetes
+- **ML / AI Tools & Frameworks**: Scikit-learn, TensorFlow, PyTorch, XGBoost, spaCy, NLTK, OpenCV, Keras, Hugging Face Transformers, LangChain
 - **Big Data**: Spark, Hadoop, Hive, Kinesis, EMR, Redshift, Glue, Snowflake
 
 
